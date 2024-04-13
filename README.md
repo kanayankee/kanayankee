@@ -1,8 +1,8 @@
 <h1>My Skills</h1>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ai,pr,ae,blender,arduino,c,raspberrypi,py,p5js,unity,cs,html,css,figma,github,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?&perline=5&i=ae,blender,bootstrap,cloudflare,codepen,css,discord,docker,firebase,github,heroku,html,ai,js,jquery,p5js,php,pr,ruby,vercel" />
 
 <h1>GitHubStatus</h1>
 <p align="left">
-<img alt="Top Langs" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rino1011&layout=compact">
-<img alt="readme.pet" src="https://readme.pet/api?username=Rino1011" />
+<img alt="Top Langs" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearpoohkanayan&layout=compact">
+<img alt="readme.pet" src="https://readme.pet/api?username=bearpoohkanayan" />
 </p>
