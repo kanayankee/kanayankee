@@ -4,5 +4,5 @@
 <h1>GitHubStatus</h1>
 <p align="left">
 <img alt="Top Langs" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearpoohkanayan&layout=compact">
-<img alt="readme.pet" src="https://readme.pet/api?username=bearpoohkanayan" />
+<!-- <img alt="readme.pet" src="https://readme.pet/api?username=bearpoohkanayan" /> -->
 </p>
