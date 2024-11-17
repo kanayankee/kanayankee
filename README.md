@@ -1,5 +1,5 @@
-<img src="portfolio_light.svg#gh-light-mode-only" width="20%">
-<img src="portfolio_dark.svg#gh-dark-mode-only" width="20%">
+<a href="https://kanayan.tech/"><img src="portfolio_light.svg#gh-light-mode-only" width="20%"></a>
+<a href="https://kanayan.tech/"><img src="portfolio_dark.svg#gh-dark-mode-only" width="20%"></a>
 <a href="https://kanayan.tech/">https://kanayan.tech</a>
 
 ---
